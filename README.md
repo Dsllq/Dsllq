@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<h4>- 🔭 I’m currently working on ...</h4>
+<h4>- 🌱 I’m currently learning ...</h4>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h3 align="center">
 A passionate Computer Science Student 💻</h3>
 <br>
-<h1>🙋🏻‍♀️ bout Me</h1>
+<h2>🙋🏻‍♀️ About Me</h2>
 <br>
 <div>
-- 🔭 I’m currently working on My old projects
-- 🌱 I’m currently learning Python and , ML
+<h4>- 🔭 I’m currently working on My old projects</h4>
+<h4>- 🌱 I’m currently learning Python and , ML </h4>h4>
 - 👯 I’m looking to collaborate on ...
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 - 📫 How to reach me: DanaAlhaidan@gmail.com
