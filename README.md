@@ -1,19 +1,6 @@
 
 
-<!--
-**Dsllq/Dsllq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-<p>- 🔭 I’m currently working on ...</p>
-<p>- 🌱 I’m currently learning ...</p>
-<p>- 👯 I’m looking to collaborate on projects that align with my interests and skills</p>
-- 🤔 I’m looking for help with ...</p>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=CB007F&background=FFFFFF00&center=true&vCenter=true&random=false&width=455&lines=Hi+There!+%F0%9F%91%8B;I'm+Dana+Sulaiman..";" />
 </h1>
@@ -35,6 +22,7 @@ A passionate Computer Science Student 💻</h3>
 <a href="https://in.linkedin.com/in/dana-alhaidan-ab4a38291" target="_blank" />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
+</div>
 <h2>✨Languages and Tools </h2>
 <br>
 <div align="center">
