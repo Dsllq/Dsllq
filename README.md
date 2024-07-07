@@ -4,9 +4,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=CB007F&background=FFFFFF00&center=true&vCenter=true&random=false&width=465&lines=Hi+There!+%F0%9F%91%8B;I'm+Dana+Sulaiman..";" />
 </h1>
+
 <h4 align="center">
 A passionate Computer Science Student 💻</h4>
-<br>
 <h2>🙋🏻‍♀️ About Me</h2>
 <br>
 <div>
