@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Dsllq/Dsllq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=CB007F&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Dana+Sulaiman";" />
+  
+</h1>
