@@ -10,7 +10,6 @@ A passionate Computer Science Student 💻</h4>
 <h2>🙋🏻‍♀️ About Me</h2>
 <br>
 <div>
-<p>- 🔭 I’m currently working on My old projects</p>
 <p>- 🌱 I’m currently learning Python and , ML </p>
 <p>- 👯 I’m looking to collaborate on projects that align with my interests and skills</p>
 <p>- 💬 If you have any question/feedback, please do not hesitate to reach out to me!</p>
